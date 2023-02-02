@@ -1,1 +1,2 @@
 # odin-recipes
+By the time i finish this little project i'll be familiar with the basics of HTML to build a simple website  with links and images (hopefuly). And also i hope at a later moment to return to this project so i can style it with CSS.
