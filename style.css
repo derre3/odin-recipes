@@ -7,12 +7,36 @@
     font-size: 20px;
 }
 
-.menu.recipe {
-    border-style: solid;
-    background-color: rgba(247, 169, 2, 0.253);
-}
-
 .menu.pic {
     height: auto;
     width: 400px;
+}
+
+.recipe.page,
+.recipe.menu {
+    border-style: solid;
+    background-color: rgba(247, 169, 2, 0.253);
+    text-align: center;
+    width: 1500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.recipe.pic {
+    height: auto;
+    width: 600px;
+}
+
+ul  {
+  padding-left: 0;
+}
+ul li {
+   list-style-position: inside;
+}
+
+ol  {
+  padding-left: 0;
+}
+ol li {
+   list-style-position: inside;
 }
