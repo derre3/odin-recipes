@@ -1,0 +1,18 @@
+.menu.title,
+.menu.body{
+    text-align: center;
+}
+
+.menu.body{
+    font-size: 20px;
+}
+
+.menu.recipe {
+    border-style: solid;
+    background-color: rgba(247, 169, 2, 0.253);
+}
+
+.menu.pic {
+    height: auto;
+    width: 400px;
+}
